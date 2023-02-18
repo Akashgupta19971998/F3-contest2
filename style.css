@@ -1,0 +1,10 @@
+#productBody {
+    margin-left: 3%;
+  }
+  
+  #productBody .product,
+  .order {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+  }
